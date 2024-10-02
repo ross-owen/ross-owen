@@ -17,6 +17,6 @@ I'm Ross, a student at Brigham Young University-Idaho interested in Web Developm
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/ross-lloyd-owen/)) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/ross-lloyd-owen/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
