@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ross L. Owen
 
-<!--
-**ross-owen/ross-owen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Ross, a student at Brigham Young University-Idaho interested in Web Development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning Software Programming and Web Development
+- My goals are to get my Bachelor's Degree
+- Ask me about my current profession - I rock!
+
+## Technologies and Tools
+
+- Proficient in: Java, C-Sharp
+- Skills: API/REST development, Microservices, Legacy Platform rewrites
+
+## Let's Connect!
+
+- Here is my [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/ross-lloyd-owen/)) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
