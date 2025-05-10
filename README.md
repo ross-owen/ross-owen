@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Ross, a student at Brigham Young University-Idaho interested in Web Development. Welcome to my GitHub profile!
+I'm Ross, a student at Brigham Young University-Idaho, through BYU Pathway, interested in Web Development. Welcome to my GitHub profile!
 
 ## About Me
 
